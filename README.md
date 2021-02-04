@@ -1,5 +1,7 @@
 # PrincipiosEstadistica2021
 Notas y bitácora
-# secciones de trabajo del curso 
-03.02.2021: Primera clase del curso
-04.02.2021:creacion de la cuenta en github
+## secciones del trabajo del curso 
+
+semana 1
++ 03.02.2021: Primera clase del curso 
++ 04.02.2021: Creacion de la cuenta 
