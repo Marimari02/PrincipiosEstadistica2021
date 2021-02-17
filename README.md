@@ -1,4 +1,4 @@
-# PrincipiosEstadistica2021
+# Principios de estadistica 2021
 Notas y bitácora
 ## secciones del trabajo del curso 
 
