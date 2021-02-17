@@ -9,3 +9,8 @@ semana 1
 semana 2
 + 10.02.2021: Cuestionario introductorio sobre definiciones de la materia y un ejemplo
 + 11.02.2021: Primer contacto con RStudio
+
+
+semana 3 
++ 17.02.2021: laboratorio 1 
++ 18.02.2021:
