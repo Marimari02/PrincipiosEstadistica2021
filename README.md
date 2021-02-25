@@ -17,4 +17,4 @@ semana 3
 
 semana 4
 + 24.02.2021: explicacion de problemas de la tarea 
-+ 25.02.2021: 
++ 25.02.2021: Estadisticas descriptivas 
