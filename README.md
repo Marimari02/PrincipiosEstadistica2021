@@ -16,5 +16,5 @@ semana 3
 + 18.02.2021: laboratorio 2 
 
 semana 4
-+ 24.02.2021: explicacion de problemas de la tarea 
++ 24.02.2021: explicacion de problemas de la tarea 1 
 + 25.02.2021: Estadisticas descriptivas 
