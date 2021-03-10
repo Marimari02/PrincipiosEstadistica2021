@@ -18,3 +18,7 @@ semana 3
 semana 4
 + 24.02.2021: explicacion de problemas de la tarea 1 
 + 25.02.2021: Estadisticas descriptivas 
+
+semana 5 
++ 03.03.2021: solucion del laboratorio 3
++ 04.03.2021: continuacion del laboratorio 3 y tarea 2
