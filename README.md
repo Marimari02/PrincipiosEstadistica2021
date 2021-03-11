@@ -22,3 +22,7 @@ semana 4
 semana 5 
 + 03.03.2021: solucion del laboratorio 3
 + 04.03.2021: continuacion del laboratorio 3 y tarea 2
+
+semana 6
++ 10.03.2021: resumen graficos de un conjunto grafico
++ 11.03.2021: histogramas, barplot y pie
