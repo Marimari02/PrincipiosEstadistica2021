@@ -26,3 +26,7 @@ semana 5
 semana 6
 + 10.03.2021: resumen graficos de un conjunto grafico
 + 11.03.2021: histogramas, barplot y pie
+
+semana 7
++ 17.03.2021: correlacion entre dos variables
++ 18.03,2021: ejercicio de corralecion y explicacion de P + value
