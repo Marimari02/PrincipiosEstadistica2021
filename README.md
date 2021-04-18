@@ -30,3 +30,12 @@ semana 6
 semana 7
 + 17.03.2021: correlacion entre dos variables
 + 18.03,2021: ejercicio de corralecion y explicacion de P + value
+
+semana 8 
++ 24.03.2021: explicacion de correalcion en R
++ 25.03.2021: examen test de lo visto en las clases pasadas
+
+semana 9
++ 14.03.2021: explacacion de la linea de regresion y los tipos de graficas 
++ 15.03.2021: no hubo clases
+
