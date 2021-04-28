@@ -42,3 +42,6 @@ semana 9
 semana 10 
 + 21.04.2021: analisis de regresion en R con su script (continuacion).
 + 22.04.2021: realizacion del script canopy
+
+semana 11
++ 28.04.2021: homogeneidad y normalidad de las varianzas 
