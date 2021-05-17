@@ -45,7 +45,8 @@ semana 10
 
 semana 11
 + 28.04.2021: homogeneidad y normalidad de las varianzas 
-+ 29.01.2021: Asincrona 
++ 29.04.2021: Asincrona 
 
 semana 12
-+ 12.04.2021: Prueba de T de una muestra 
++ 12.05.2021: Prueba de T de una muestra 
++ 13.5.2021: Prueba de T en dos variables de muestra 
