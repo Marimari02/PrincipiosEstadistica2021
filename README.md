@@ -49,4 +49,7 @@ semana 11
 
 semana 12
 + 12.05.2021: Prueba de T de una muestra 
-+ 13.5.2021: Prueba de T en dos variables de muestra 
++ 13.5.2021: Prueba de T en dos variables de muestra independientes 
+
+semana 13
++ 19.05.2021: Pruebas de T dependientes 
